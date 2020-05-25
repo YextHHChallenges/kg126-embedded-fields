@@ -2,6 +2,7 @@
   "$id": "111",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -18,7 +19,6 @@
       "city": "New York",
       "countryCode": "US",
       "line1": "1 Madison Ave",
-      "line2": "5th Floor",
       "postalCode": "10010",
       "region": "NY"
     },
@@ -87,7 +87,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+12129943900",
+    "yext/mainPhone": "+12125553951",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

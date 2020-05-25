@@ -2,6 +2,7 @@
   "$id": "17",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -17,8 +18,7 @@
     "yext/address": {
       "city": "Dallas",
       "countryCode": "US",
-      "line1": "9440 Garland Road",
-      "line2": "Ste. 234",
+      "line1": "718 N Buckner Blvd",
       "postalCode": "75218",
       "region": "TX"
     },
@@ -87,7 +87,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+19723548226",
+    "yext/mainPhone": "+19725558221",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

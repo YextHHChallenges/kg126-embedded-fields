@@ -2,6 +2,7 @@
   "$id": "33",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -15,8 +16,7 @@
     "yext/address": {
       "city": "Sugar Land",
       "countryCode": "US",
-      "line1": "15810 Southwest Frwy",
-      "line2": "Ste 600",
+      "line1": "14121 Southwest Fwy",
       "postalCode": "77478",
       "region": "TX"
     },
@@ -85,7 +85,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+12813135110",
+    "yext/mainPhone": "+12815555211",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

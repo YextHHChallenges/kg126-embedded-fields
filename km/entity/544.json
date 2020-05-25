@@ -2,6 +2,7 @@
   "$id": "544",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -14,8 +15,8 @@
     "yext/address": {
       "city": "Austin",
       "countryCode": "US",
-      "line1": "4211 Spicewood Springs Rd",
-      "postalCode": "78759",
+      "line1": "3800 Dry Creek Dr",
+      "postalCode": "78731",
       "region": "TX"
     },
     "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily.",
@@ -83,7 +84,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+15122917277",
+    "yext/mainPhone": "+15125557371",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

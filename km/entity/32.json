@@ -2,6 +2,7 @@
   "$id": "32",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -15,7 +16,7 @@
     "yext/address": {
       "city": "Austin",
       "countryCode": "US",
-      "line1": "1822 S Congress",
+      "line1": "2215 S Congress Ave",
       "postalCode": "78704",
       "region": "TX"
     },
@@ -84,7 +85,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+15129169025",
+    "yext/mainPhone": "+15125559321",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

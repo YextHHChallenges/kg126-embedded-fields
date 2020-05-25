@@ -2,6 +2,7 @@
   "$id": "53",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -17,7 +18,7 @@
     "yext/address": {
       "city": "Houston",
       "countryCode": "US",
-      "line1": "2675 Wilcrest Drive",
+      "line1": "3200 Wilcrest Dr",
       "postalCode": "77042",
       "region": "TX"
     },
@@ -86,7 +87,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+17134874991",
+    "yext/mainPhone": "+17135554991",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

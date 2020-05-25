@@ -2,6 +2,7 @@
   "$id": "43",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -15,9 +16,8 @@
     "yext/address": {
       "city": "Westminster",
       "countryCode": "US",
-      "line1": "7159 W 88th Ave.",
-      "line2": "Suite 400",
-      "postalCode": "80021",
+      "line1": "6400 W 92nd Ave",
+      "postalCode": "80031",
       "region": "CO"
     },
     "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily.",
@@ -85,7 +85,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+13034951115",
+    "yext/mainPhone": "+13035551111",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

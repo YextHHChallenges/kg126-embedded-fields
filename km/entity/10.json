@@ -2,6 +2,7 @@
   "$id": "10",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -15,7 +16,6 @@
       "city": "San Francisco",
       "countryCode": "US",
       "line1": "575 Market Street",
-      "line2": "Suite 3000",
       "postalCode": "94105",
       "region": "CA"
     },
@@ -84,7 +84,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+18884442988",
+    "yext/mainPhone": "+18885552981",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

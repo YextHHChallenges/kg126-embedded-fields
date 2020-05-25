@@ -2,6 +2,7 @@
   "$id": "35",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -15,7 +16,7 @@
     "yext/address": {
       "city": "Tyler",
       "countryCode": "US",
-      "line1": "426 E. Southeast Loop 323",
+      "line1": "115 W SW Loop 323",
       "postalCode": "75701",
       "region": "TX"
     },
@@ -84,7 +85,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+19035813716",
+    "yext/mainPhone": "+19035553711",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

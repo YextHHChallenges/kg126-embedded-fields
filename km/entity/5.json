@@ -2,6 +2,7 @@
   "$id": "5",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -16,8 +17,7 @@
     "yext/address": {
       "city": "Dallas",
       "countryCode": "US",
-      "line1": "1919 McKinney Ave",
-      "line2": "Office 2069",
+      "line1": "2020 Cedar Springs Rd",
       "postalCode": "75201",
       "region": "TX"
     },
@@ -86,7 +86,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+14695135172",
+    "yext/mainPhone": "+14695555171",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

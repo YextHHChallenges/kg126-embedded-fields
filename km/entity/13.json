@@ -2,6 +2,7 @@
   "$id": "13",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -14,8 +15,7 @@
     "yext/address": {
       "city": "Dallas",
       "countryCode": "US",
-      "line1": "5600 Smu Blvd.",
-      "line2": "#102",
+      "line1": "5400 E Mockingbird Ln",
       "postalCode": "75206",
       "region": "TX"
     },
@@ -84,7 +84,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+19729938226",
+    "yext/mainPhone": "+19725558221",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

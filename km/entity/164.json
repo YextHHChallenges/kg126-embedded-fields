@@ -2,6 +2,7 @@
   "$id": "164",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -15,8 +16,7 @@
     "yext/address": {
       "city": "Southlake",
       "countryCode": "US",
-      "line1": "2175 E. Southlake Blvd",
-      "line2": "Ste 160",
+      "line1": "257 Grand Ave",
       "postalCode": "76092",
       "region": "TX"
     },
@@ -85,7 +85,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+18176012880",
+    "yext/mainPhone": "+18175552891",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

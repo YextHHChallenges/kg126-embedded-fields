@@ -2,6 +2,7 @@
   "$id": "34",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -14,8 +15,8 @@
     "yext/address": {
       "city": "Denver",
       "countryCode": "US",
-      "line1": "1085 N Broadway",
-      "postalCode": "80203",
+      "line1": "1391 Speer Blvd",
+      "postalCode": "80204",
       "region": "CO"
     },
     "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily.",
@@ -83,7 +84,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+13034361704",
+    "yext/mainPhone": "+13035551701",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

@@ -2,6 +2,7 @@
   "$id": "24",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -14,8 +15,7 @@
     "yext/address": {
       "city": "Austin",
       "countryCode": "US",
-      "line1": "1801 E. 51st St",
-      "line2": "Bldg D",
+      "line1": "5811 Berkman Dr",
       "postalCode": "78723",
       "region": "TX"
     },
@@ -84,7 +84,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+15123222411",
+    "yext/mainPhone": "+15125552411",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

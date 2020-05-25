@@ -2,6 +2,7 @@
   "$id": "104",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -17,8 +18,7 @@
     "yext/address": {
       "city": "Allen",
       "countryCode": "US",
-      "line1": "1008 W. McDermott Dr.",
-      "line2": "#600",
+      "line1": "806 W McDermott Dr",
       "postalCode": "75013",
       "region": "TX"
     },
@@ -87,7 +87,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+12143838226",
+    "yext/mainPhone": "+12145558241",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

@@ -2,6 +2,7 @@
   "$id": "444",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -18,7 +19,6 @@
       "city": "Chicago",
       "countryCode": "US",
       "line1": "500 West Madison Street",
-      "line2": "Suite 2400",
       "postalCode": "60661",
       "region": "IL"
     },
@@ -87,7 +87,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+13126388063",
+    "yext/mainPhone": "+13125558361",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

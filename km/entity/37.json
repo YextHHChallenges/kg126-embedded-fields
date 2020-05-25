@@ -2,6 +2,7 @@
   "$id": "37",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -15,10 +16,9 @@
     "c_restaurantType": "DINE-IN_RESTAURANT",
     "c_territory": "Texas",
     "yext/address": {
-      "city": "Lakeway",
+      "city": "Austin",
       "countryCode": "US",
-      "line1": "1945 Medical Drive",
-      "line2": "Suite 100",
+      "line1": "2127 Lohmans Crossing Rd",
       "postalCode": "78734",
       "region": "TX"
     },
@@ -87,7 +87,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+15129753240",
+    "yext/mainPhone": "+15125553241",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

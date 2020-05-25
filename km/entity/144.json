@@ -2,6 +2,7 @@
   "$id": "144",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -15,8 +16,7 @@
     "yext/address": {
       "city": "Lubbock",
       "countryCode": "US",
-      "line1": "2407 9th. St",
-      "line2": "Ste 100",
+      "line1": "1305 University Ave",
       "postalCode": "79401",
       "region": "TX"
     },
@@ -85,7 +85,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+18063688973",
+    "yext/mainPhone": "+18065558961",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

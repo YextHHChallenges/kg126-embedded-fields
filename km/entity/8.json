@@ -2,6 +2,7 @@
   "$id": "8",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -14,7 +15,7 @@
     "yext/address": {
       "city": "Austin",
       "countryCode": "US",
-      "line1": "3005 S. Lamar Blvd",
+      "line1": "3318 S Lamar Blvd",
       "postalCode": "78704",
       "region": "TX"
     },
@@ -83,7 +84,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+15126141832",
+    "yext/mainPhone": "+15125551831",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

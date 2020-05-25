@@ -2,6 +2,7 @@
   "$id": "31",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -14,7 +15,7 @@
     "yext/address": {
       "city": "San Marcos",
       "countryCode": "US",
-      "line1": "301 N. Guadalupe Street",
+      "line1": "201 Moore St",
       "postalCode": "78666",
       "region": "TX"
     },
@@ -83,7 +84,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+15127578888",
+    "yext/mainPhone": "+15125550881",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

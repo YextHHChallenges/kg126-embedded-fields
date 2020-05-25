@@ -2,6 +2,7 @@
   "$id": "30",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -15,8 +16,7 @@
     "yext/address": {
       "city": "San Antonio",
       "countryCode": "US",
-      "line1": "999 E. Basse Road",
-      "line2": "#183",
+      "line1": "555 E Basse Rd",
       "postalCode": "78209",
       "region": "TX"
     },
@@ -85,7 +85,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+12108241603",
+    "yext/mainPhone": "+12105551601",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

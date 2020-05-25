@@ -2,6 +2,7 @@
   "$id": "21",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -15,8 +16,7 @@
     "yext/address": {
       "city": "Cedar Park",
       "countryCode": "US",
-      "line1": "1468 E. Whitestone Blvd",
-      "line2": "Ste 100",
+      "line1": "401 W Whitestone Blvd",
       "postalCode": "78613",
       "region": "TX"
     },
@@ -27,7 +27,7 @@
     },
     "yext/geomodifier": "Cedar Park",
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+15123370997",
+    "yext/mainPhone": "+15125550991",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

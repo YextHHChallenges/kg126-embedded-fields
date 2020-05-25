@@ -2,6 +2,7 @@
   "$id": "20",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -17,8 +18,7 @@
     "yext/address": {
       "city": "Houston",
       "countryCode": "US",
-      "line1": "350 W. 19th Street",
-      "line2": "Ste 1",
+      "line1": "110 W 20th St",
       "postalCode": "77008",
       "region": "TX"
     },
@@ -29,7 +29,7 @@
     },
     "yext/geomodifier": "Houston",
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+17135958229",
+    "yext/mainPhone": "+17135558221",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {

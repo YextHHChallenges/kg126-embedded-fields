@@ -2,6 +2,7 @@
   "$id": "39",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "yext/restaurant",
+  "labels": [],
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_restaurantFeatures": [
@@ -17,8 +18,7 @@
     "yext/address": {
       "city": "The Woodlands",
       "countryCode": "US",
-      "line1": "4747 Research Forest Drive",
-      "line2": "#475",
+      "line1": "6265 Shadowbend Pl",
       "postalCode": "77381",
       "region": "TX"
     },
@@ -87,7 +87,7 @@
       }
     },
     "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/mainPhone": "+12814658918",
+    "yext/mainPhone": "+12815558911",
     "yext/name": "Turtlehead Tacos",
     "yext/photoGallery": [
       {
