@@ -2,10 +2,10 @@
   "$id": "c_featuredGuests",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Featured Guests",
-  "typeId": "yext/list",
+  "typeId": "list",
   "type": {
     "listType": {
-      "typeId": "yext/string",
+      "typeId": "string",
       "type": {
         "stringType": {
           "stereotype": "SIMPLE"
